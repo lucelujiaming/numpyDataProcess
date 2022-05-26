@@ -1,0 +1,7 @@
+float64(42) 
+int8(42.0) 
+bool(42) 
+bool(0) 
+bool(42.0) 
+float(True) 
+float(False) 

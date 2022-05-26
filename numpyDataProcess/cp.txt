@@ -1,0 +1,14 @@
+In: float64(42) 
+Out: 42.0 
+In: int8(42.0) 
+Out: 42 
+In: bool(42) 
+Out: True 
+In: bool(0) 
+Out: False 
+In: bool(42.0) 
+Out: True 
+In: float(True) 
+Out: 1.0 
+In: float(False) 
+Out: 0.0
